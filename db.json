@@ -25,6 +25,32 @@
       "gambar": "nasi-rames.jpg"
     }
   ],
+  "best-drinks": [
+    {
+      "id": 9,
+      "kode": "K-01",
+      "nama": "Jus Jeruk",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "jeruk.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-02",
+      "nama": "Jus Mangga",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "mangga.jpg"
+    },
+    {
+      "id": 1,
+      "kode": "K-03",
+      "nama": "Jus Pokat",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "pokat.jpg"
+    }
+  ],
   "products": [
     {
       "id": 1,
@@ -118,7 +144,5 @@
       "keterangan": "sasa",
       "id": 2
     }
-  ],
-  "pesanans": [],
-}
+  ]
 }
