@@ -1,0 +1,223 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Nasi Goreng Telur",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "nasi-goreng-telor.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Nasi Rames",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "nasi-rames.jpg"
+    }
+  ],
+  "best-drinks": [
+    {
+      "id": 9,
+      "kode": "K-01",
+      "nama": "Jus Jeruk",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "jeruk.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-02",
+      "nama": "Jus Mangga",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "mangga.jpg"
+    },
+    {
+      "id": 1,
+      "kode": "K-03",
+      "nama": "Jus Pokat",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "pokat.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Nasi Goreng Telur",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "nasi-goreng-telor.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Nasi Rames",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "nasi-rames.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Mie Ayam Bakso",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "mie-ayam-bakso.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Mie Goreng",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "mie-goreng.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Bakso",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "bakso.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Pangsit 6 pcs",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "pangsit.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Kentang Goreng",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "kentang-goreng.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Lontong Opor Ayam",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "lontong-opor-ayam.jpg"
+    }
+  ],
+  "keranjangs": [
+    {
+      "jumlah_pemesanan": "2",
+      "keterangan": "tete",
+      "products": {
+        "id": 1,
+        "kode": "K-01",
+        "nama": "Sate Ayam",
+        "harga": 16000,
+        "is_ready": true,
+        "gambar": "sate-ayam.jpg"
+      },
+      "id": 1
+    },
+    {
+      "jumlah_pemesanan": "1",
+      "keterangan": "sasa",
+      "id": 2
+    }
+  ],
+  "pesanans": [],
+  "drinks": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Jus Pokat",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "pokat.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Jus Wortel",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "wortel.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Jus Mangga",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "mangga.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Es Krim Vanilla",
+      "harga": 8000,
+      "is_ready": true,
+      "gambar": "eskrim.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Jus Sirsak",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "sirsak.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Cappuccino",
+      "harga": 8000,
+      "is_ready": true,
+      "gambar": "capucino.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Bandrek",
+      "harga": 7000,
+      "is_ready": true,
+      "gambar": "bandrek.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Es Buah",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "es-buah-segar.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Jus Jeruk",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "jeruk.jpg"
+    }
+  ]
+}
