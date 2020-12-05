@@ -97,31 +97,8 @@
       "harga": 18000,
       "is_ready": true,
       "gambar": "lontong-opor-ayam.jpg"
-    }
-  ],
-  "keranjangs": [
-    {
-      "jumlah_pemesanan": "2",
-      "keterangan": "tete",
-      "products": {
-        "id": 1,
-        "kode": "K-01",
-        "nama": "Sate Ayam",
-        "harga": 16000,
-        "is_ready": true,
-        "gambar": "sate-ayam.jpg"
-      },
-      "id": 1
     },
-    {
-      "jumlah_pemesanan": "1",
-      "keterangan": "sasa",
-      "id": 2
-    }
-  ],
-  "pesanans": [],
-  "drinks": [
-    {
+     {
       "id": 1,
       "kode": "K-01",
       "nama": "Jus Pokat",
@@ -193,5 +170,26 @@
       "is_ready": true,
       "gambar": "jeruk.jpg"
     }
-  ]
+  ],
+  "keranjangs": [
+    {
+      "jumlah_pemesanan": "2",
+      "keterangan": "tete",
+      "products": {
+        "id": 1,
+        "kode": "K-01",
+        "nama": "Sate Ayam",
+        "harga": 16000,
+        "is_ready": true,
+        "gambar": "sate-ayam.jpg"
+      },
+      "id": 1
+    },
+    {
+      "jumlah_pemesanan": "1",
+      "keterangan": "sasa",
+      "id": 2
+    }
+  ],
+  "pesanans": [],
 }
