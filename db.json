@@ -99,7 +99,7 @@
       "gambar": "lontong-opor-ayam.jpg"
     },
      {
-      "id": 1,
+      "id": 10,
       "kode": "K-01",
       "nama": "Jus Pokat",
       "harga": 10000,
@@ -107,7 +107,7 @@
       "gambar": "pokat.jpg"
     },
     {
-      "id": 2,
+      "id": 11,
       "kode": "K-02",
       "nama": "Jus Wortel",
       "harga": 12000,
@@ -115,7 +115,7 @@
       "gambar": "wortel.jpg"
     },
     {
-      "id": 3,
+      "id": 12,
       "kode": "K-03",
       "nama": "Jus Mangga",
       "harga": 12000,
@@ -123,7 +123,7 @@
       "gambar": "mangga.jpg"
     },
     {
-      "id": 4,
+      "id": 13,
       "kode": "K-04",
       "nama": "Es Krim Vanilla",
       "harga": 8000,
@@ -131,7 +131,7 @@
       "gambar": "eskrim.jpg"
     },
     {
-      "id": 5,
+      "id": 14,
       "kode": "K-05",
       "nama": "Jus Sirsak",
       "harga": 13000,
@@ -139,7 +139,7 @@
       "gambar": "sirsak.jpg"
     },
     {
-      "id": 6,
+      "id": 15,
       "kode": "K-06",
       "nama": "Cappuccino",
       "harga": 8000,
@@ -147,7 +147,7 @@
       "gambar": "capucino.jpg"
     },
     {
-      "id": 7,
+      "id": 16,
       "kode": "K-07",
       "nama": "Bandrek",
       "harga": 7000,
@@ -155,7 +155,7 @@
       "gambar": "bandrek.jpg"
     },
     {
-      "id": 8,
+      "id": 17,
       "kode": "K-08",
       "nama": "Es Buah",
       "harga": 10000,
@@ -163,7 +163,7 @@
       "gambar": "es-buah-segar.jpg"
     },
     {
-      "id": 9,
+      "id": 18,
       "kode": "K-09",
       "nama": "Jus Jeruk",
       "harga": 12000,
